@@ -1,0 +1,3 @@
+payload:
+  - '+.www.bing.com'
+  - '+.sydney.bing.com'
